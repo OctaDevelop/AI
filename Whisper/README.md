@@ -4,7 +4,7 @@
 Whisper is a simple Python script to utilize Whisper API from OpenAI. It can help you transcribe a local audio file into text, or translate it into English.
 
 You can use it in these steps:
-1. Install OpenAI SDK (if you don't have Python 3 installed, install it first)
+1. Install OpenAI SDK (if you don't have Python 3 or pip installed, install them first)
 ```
 pip install openai
 ```
