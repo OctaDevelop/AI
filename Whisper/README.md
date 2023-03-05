@@ -1,7 +1,5 @@
 # Whisper
 > A simple application of [Whisper API](https://github.com/openai/whisper).
->
-> Fun fact: this sub-project involves the participation of ChatGPT.
 
 Whisper is a simple Python script to utilize Whisper API from OpenAI. It can help you transcribe an audio file into text, or translate it into English.
 
@@ -12,3 +10,5 @@ You can use it in these steps:
 ```
 python3 ~/Whisper.py
 ```
+
+> Fun fact: this project involves the participation of ChatGPT.
