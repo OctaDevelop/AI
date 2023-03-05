@@ -3,7 +3,8 @@
 >
 > Fun fact: this sub-project involves the participation of ChatGPT.
 
-Whisper is a simple Python script to utilize Whisper API from OpenAI.
+Whisper is a simple Python script to utilize Whisper API from OpenAI. It can help you transcribe an audio file into text, or translate it into English.
+
 You can use it in these steps:
 1. Install Python 3 on your device
 2. Download Whisper.py
