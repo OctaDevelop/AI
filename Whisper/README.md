@@ -22,7 +22,7 @@ The script should show results in the terminal.
 ## Using Whisper_Pro.py
 If you need to transcribe a large file (over 25 MB), please use ```Whisper_Pro.py```. 
 
-Unlike ```Whisper.py```, ```Whisper_Pro.py``` will slice mp3 files into pieces, then transcribe them into a single file ```output.txt```.
+Unlike ```Whisper.py```, ```Whisper_Pro.py``` will slice mp3 files into pieces, then transcribe them into a single file ```output.txt``` in current path.
 
 > Fun fact: this project involves the participation of ChatGPT.
 
